@@ -57,6 +57,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Ranjesh Thakur - [rs0036870@gmail.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/your-username/todolist](https://github.com/your-username/todolist)
+Project Link: [(https://ranjesh2002.github.io/todo-list/)](https://github.com/your-username/todolist)
