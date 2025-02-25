@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from "framer-motion";
 function App() {
   const [todo, setTodo] = useState("");
   const [todos, setTodos] = useState([]);
-  const [showFinished, setshowFinished] = useState(true);
+  const [showFinished, setshowFinished] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
